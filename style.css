@@ -1,0 +1,449 @@
+@media (max-width: 14400px){
+.profile-pic {
+    border-radius: 50%;
+}
+
+.table-index{
+    margin-top: 3%;
+    margin-left: 7%;
+    margin-bottom: 3%;
+    letter-spacing: -0.02em;
+}
+
+#index-name{
+    font-size: 110px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.index-info{
+    width: 400px;
+}
+
+.index-info1{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+}
+
+.index-info2{
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 150;
+}
+
+.transcript-button{
+  color:#F2F3F4;
+  border: none;
+  padding: 5px;
+  font-size: 15px;
+  height: 100px;
+  width: 100px;
+  box-shadow: 0 2px 4px darkslategray;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 70%;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #2A3166 ;
+}
+
+.transcript-button:hover{
+    height: 102px;
+    width: 102px;
+    background-color: #A9CCE3;
+}
+
+.course-button{
+    color:#F2F3F4;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 2px 4px darkslategray;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 70%;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #F4ABAA ;
+}
+  
+.course-button:hover{
+    height: 102px;
+    width: 102px;
+    background-color: #FADBD8;
+}
+
+.certificate-button{
+    color:white;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 2px 4px darkslategray;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 70%;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #CAE7DF;
+}
+  
+.certificate-button:hover{
+    height: 102px;
+    width: 102px;
+    background-color: #E9FFFF;
+}
+
+.index-buttons1{
+  color:white;
+  border: none;
+  padding: 5px;
+  font-size: 31px;
+  height: 110px;
+  width: 110px;
+  box-shadow: 0 2px 4px darkslategray;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 70%;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 20px;
+  background-color: #2A3166 ;
+}
+
+.index-buttons1:hover{
+    background-color: #A9CCE3;
+}
+
+.education-button{
+  color:#F2F3F4;
+  border: none;
+  padding: 5px;
+  height: 150px;
+  width: 150px;
+  box-shadow: 0 2px 4px darkslategray;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 70%;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 20px;
+  background-color: #2A3166;
+}
+
+.index-buttons2{
+    background-color: #48abe0;
+
+      color:white;
+      border: none;
+      padding: 5px;
+      font-size: 31px;
+      height: 110px;
+      width: 110px;
+      box-shadow: 0 2px 4px darkslategray;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border-radius: 70%;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 20px;
+      background-color: #F4ABAA ;
+    }
+
+.index-buttons2:hover{
+    background-color: #FADBD8;
+}
+
+.index-buttons3{
+          color:white;
+          border: none;
+          padding: 5px;
+          font-size: 31px;
+          height: 110px;
+          width: 110px;
+          box-shadow: 0 2px 4px darkslategray;
+          cursor: pointer;
+          transition: all 0.2s ease;
+          border-radius: 70%;
+          font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+          font-size: 20px;
+          background-color: #CAE7DF;
+        }
+
+.index-buttons3:hover{
+            background-color: #E9FFFF;
+}
+
+#my-name{
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    color: black;
+}
+
+#my-role{
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 200;
+    color: black;
+}
+
+.menu-options{
+    margin-left: 110%;
+    position: relative;
+}
+
+.index-icon-button{
+          border: none;
+          padding: 5px;
+          font-size: 31px;
+          height: 25px;
+          width: 25px;
+          cursor: pointer;
+          transition: all 0.2s ease;
+          border-radius: 70%;
+          background-color: #FFA500;
+          margin-right: 15px;
+}
+
+.nav-bar{
+    margin-top: 25px;
+    margin-left: 5px;
+    position: relative;
+}
+
+.nav-button{
+    background-color: transparent;
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+.nav-button:hover{
+    background-color: transparent;
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #FFA500;
+}
+
+.nav-divider{
+    font-size: 30px;
+    font-weight: 100;
+    border: none;
+    background-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.linkedin-logo{
+    height: 35px;
+    width: 35 px;
+}
+
+.linkedin-logo:hover{
+    height: 40px;
+    width: 40 px;
+}
+
+.handshake-logo{
+    height: 35px;
+    width: 35 px;
+}
+
+.handshake-logo:hover{
+    height: 40px;
+    width: 40 px;
+}
+
+.github-logo{
+    height: 35px;
+    width: 35 px;
+}
+
+.github-logo:hover{
+    height: 40px;
+    width: 40 px;
+}
+
+
+
+
+
+
+
+
+.education-umass{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.education-umass-td{
+    background-color:transparent;
+    height: 150px;
+    width: 250px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    border-radius: 6%;
+    text-align: center;
+}
+
+.education-seekonk{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.education-seekonk-td{
+    background-color:#AED6F1;
+    height: 150px;
+    width: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    border-radius: 6%;
+    text-align: center;
+}
+
+.education-table{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.education-button{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-size:32px;
+}
+
+.course-li{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-size:20px;
+    font-weight: 200;
+}
+.tata{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-size:17px;
+    font-weight: 200;
+    text-align: center;
+    height: 300px;
+}
+
+.skill-table{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-size:17px;
+    font-weight: 200;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    position: relative;
+}
+
+.project-table{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-size:17px;
+    font-weight: 200;
+    text-align: center;
+    margin: auto;
+}
+
+.projects{
+    padding-top: 6%;
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+.proj{
+    padding: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.intro{
+    background-color: #F2F3F4;
+    color:black;
+}
+
+#index-page-content{
+    padding: 10% 26%;
+}
+
+#education-page-content{
+    padding-bottom: 50px;
+}
+
+#experiences-page-content{
+    padding-top: 40px;
+}
+
+#navbarTogglerList{
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    font-weight: 200;
+}
+
+#navbarTogglerList:hover{
+    background-color: transparent;
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #ffa57d;
+}
+
+.experiences{
+    padding: 10% 10%;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+}
+
+.experience{
+    text-align: center;
+}
+
+.educations{
+    background-color: #F2F3F4;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+.skills{
+    padding: 17% 10%;
+    background-color: #F2F3F4;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+}
+
+.skills-header{
+    text-align: center;
+}
+
+.skill{
+    text-align: center;
+}
+
+#footer{
+    align-items: center;
+    padding: 1% 20%;
+    padding-top: 4%;
+    text-align: center;
+}
+
+.footer-icon{
+    margin:10px;
+}
+
+.courses{
+    background-color: #F2F3F4;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif; 
+    padding: 10% 10%;
+    text-align: center;
+    align-items: center;
+}
